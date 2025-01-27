@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libSecondOrderSystem.a CMakeFiles/SecondOrderSystem.dir/src/SecondOrderSystem.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libSecondOrderSystem.a
