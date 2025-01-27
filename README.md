@@ -5,4 +5,9 @@ Extended documentation can be found here: https://docs.google.com/document/d/1_A
 See C++/C files for implementation. Python file is solely for parametric customizeable graph using streamlit. Feel free to implement into your own simulations/game engines!
 
 ## To use:
-* Simply run the .py file included inside the /build directory and play around with it!
+* Run this copy&pasted command: mkdir build
+cd build
+cmake ..
+make
+* Move the .py file into the /build directory and run it
+
